@@ -169,7 +169,7 @@
 <img  width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAURAKH-97&theme=radical">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GAURAKH-97&theme=radical" alt="stats">
-<img width="49%" src="Https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAURAKH-97&theme=blueberry&utcOffset=8" alt="productive-time">
+<img width="49%" src="Http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAURAKH-97&theme=blueberry&utcOffset=8" alt="productive-time">
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h2>
 
