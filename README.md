@@ -162,8 +162,10 @@
   
 
 <h2>Activity Graph</h2>
-<img  width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=GAURAKH-97&custom_title=Gaurakh's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true"><img  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAURAKH-97&theme=radical">
-
+<p align="center">
+<img  width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=GAURAKH-97&custom_title=Gaurakh's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true">
+<img  width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAURAKH-97&theme=radical">
+</p>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GAURAKH-97&theme=radical" alt="stats">
 <img width="49%" src="Http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAURAKH-97&theme=blueberry&utcOffset=8" alt="productive-time">
 
