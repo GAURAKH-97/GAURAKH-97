@@ -131,13 +131,13 @@
 
 <h2>Top Projects</h2>
 <p>
-  <a href="https://github.com/GAURAKH-97/StreamHive-Backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GAURAKH-97&repo=StreamHive-Backend&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Data Structures and Algorithms"></a>
+  <a href="https://github.com/GAURAKH-97/StreamHive-Backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GAURAKH-97&repo=StreamHive-Backend&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="StreamHive-Backend"></a>
 
   <a href="https://github.com/GAURAKH-97/Distraction-Tracker">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GAURAKH-97&repo=Distraction-Tracker&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Diabetes-Prediction-KNN"></a>
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GAURAKH-97&repo=Distraction-Tracker&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Distraction-Tracker"></a>
 
   <a href="https://github.com/GAURAKH-97/Nexus">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GAURAKH-97&repo=Nexus&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BigMart-Sales-Prediction">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GAURAKH-97&repo=Nexus&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Nexus">
   </a>
 
   </br>
